@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <string.h>
 
-int mmdc(int a){
-    
+int invert(int a){
+
 }
 
 int main(void){
